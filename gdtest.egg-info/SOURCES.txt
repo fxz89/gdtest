@@ -1,0 +1,8 @@
+README.md
+setup.py
+gdtest/__init__.py
+gdtest/solvers.py
+gdtest.egg-info/PKG-INFO
+gdtest.egg-info/SOURCES.txt
+gdtest.egg-info/dependency_links.txt
+gdtest.egg-info/top_level.txt
